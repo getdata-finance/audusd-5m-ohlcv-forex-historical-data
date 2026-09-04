@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `AUDUSD_5m.csv` (11,093 rows, `2026-07-09` -> `2026-09-02`, 1.12 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **1,053,919** `5m` rows (full `1m`: 5,263,593), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
+> **Sample on GitHub** · `AUDUSD_5m.csv` (11,088 rows, `2026-07-09` -> `2026-09-02`, 1.11 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **1,053,919** `5m` rows (full `1m`: 5,263,475), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Australian Dollar / US Dollar · Forex | Australian Dollar / US Dollar · Forex |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,093 | **1,053,919** |
-| Size | 1.12 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
+| 5m rows | 11,088 | **1,053,919** |
+| Size | 1.11 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
 | Period | `2026-07-09` -> `2026-09-02` | `2012-06-24` -> `2026-09-02` |
 | File | `AUDUSD_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
 | Coverage report | — | [AUDUSD coverage](https://getdata.finance/coverage/audusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`AUDUSD_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:25:00+00:00 | 0.70777 | 0.70786 | 0.70774 | 0.70777 | 526 |
-| 2026-07-09T13:30:00+00:00 | 0.70777 | 0.70795 | 0.70766 | 0.70788 | 1143 |
-| 2026-07-09T13:35:00+00:00 | 0.70788 | 0.70795 | 0.7078 | 0.70788 | 988 |
-| 2026-07-09T13:40:00+00:00 | 0.70788 | 0.70814 | 0.70777 | 0.70805 | 906 |
-| 2026-07-09T13:45:00+00:00 | 0.70805 | 0.70807 | 0.70787 | 0.70806 | 916 |
+| 2026-07-09T13:50:00+00:00 | 0.70806 | 0.70813 | 0.70789 | 0.70796 | 876 |
+| 2026-07-09T13:55:00+00:00 | 0.70796 | 0.70815 | 0.70796 | 0.70815 | 524 |
+| 2026-07-09T14:00:00+00:00 | 0.70815 | 0.70852 | 0.70808 | 0.70851 | 887 |
+| 2026-07-09T14:05:00+00:00 | 0.70851 | 0.70852 | 0.70811 | 0.70813 | 955 |
+| 2026-07-09T14:10:00+00:00 | 0.70813 | 0.70825 | 0.70807 | 0.70816 | 963 |
 
 **Last rows**
 
